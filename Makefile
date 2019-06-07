@@ -1,5 +1,5 @@
 # Makefile test
-PROGRAM = test_main
+PROGRAM = main
 GCC = gcc
 N_SYZE?=5
 
